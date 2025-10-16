@@ -47,7 +47,8 @@ createPlatform(950, 300, 150, 10)
 createCollectable("steve",700, 200)
 createCollectable("max", 1050, 300)
 createCollectable("max", 350, 300)
-    
+createCollectable("diamond", 500, 450)    
+createCollectable("kennedi", 800, 450)
     // TODO 4 - Create Cannons
 
 
